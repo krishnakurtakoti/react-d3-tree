@@ -1,0 +1,208 @@
+{
+    "name": "AppaS",
+    "children": [
+      {
+        "name": "Child1",
+        "attributes": {
+          "Department": "1M"
+        },
+        "children": [
+          {
+            "name": "Child1",
+            "attributes": {
+              "Department": "1"
+            },
+            "children": [
+              {
+                "name": "Child1",
+              "attributes": {
+                "Department": "1"
+              }
+            }
+            ]
+          }, {
+            "name": "Child2",
+            "attributes": {
+              "Department": ""
+            },
+            "children": [
+              {
+                "name": "Child1"
+              }
+            ]
+          },
+         {
+            "name": "Child3",
+            "attributes": {
+              "Department": "1"
+            },
+            "children": [
+              {
+                "name": "Child1",
+                "attributes": {
+                    "Department": "1"
+                  }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Child2",
+        "attributes": {
+          "Department": ""
+        },
+        "children": [
+          {
+            "name": "Child1",
+            "attributes": {
+              "Department": "1"
+            }
+          },
+          {
+            "name": "Child2",
+            "attributes": {
+              "Department": ""
+            }
+        },
+            {
+                "name": "Child3",
+                "attributes": {
+                  "Department": ""
+                }
+            }
+          
+        ]
+      },
+      {
+        "name": "Child3",
+        "attributes": {
+          "Department": ""
+        },
+        "children": [
+          {
+            "name": "Child1",
+            "attributes": {
+              "Department": "1MF"
+            },
+            "children": [
+                {
+                  "name": "Child1",
+                  "attributes": {
+                    "Department": "1"
+                  }
+                },
+                {
+                    "name": "Child2",
+                    "attributes": {
+                      "Department": "1"
+                    }
+                  }      
+            ]
+        },
+          {
+            "name": "Child2",
+            "attributes": {
+              "Department": ""
+            }, "children": [
+                {
+                  "name": "Child1",
+                  "attributes": {
+                    "Department": ""
+                  }
+                }
+            ]
+        } 
+        ]
+      },
+      {
+        "name": "Child4",
+        "attributes": {
+          "Department": ""
+        },
+        "children": [
+          {
+            "name": "Child1",
+            "attributes": {
+              "Department": ""
+            },
+            "children": [
+                {
+                  "name": "Child1",
+                  "attributes": {
+                    "Department": ""
+                  }
+                },
+                {
+                    "name": "Child2",
+                    "attributes": {
+                      "Department": ""
+                    }
+                  }      
+            ]
+          },
+          {
+            "name": "Child2",
+            "attributes": {
+              "Department": ""
+            },
+            "children": [
+                {
+                  "name": "Child1",
+                  "attributes": {
+                    "Department": ""
+                  }
+                },
+                {
+                    "name": "Child2",
+                    "attributes": {
+                      "Department": ""
+                    }
+                  }      
+            ]
+        } 
+        ]
+      },
+      {
+        "name": "Child5",
+        "attributes": {
+          "Department": ""
+        },
+        "children": [
+          {
+            "name": "Child1",
+            "attributes": {
+              "Department": ""
+            }
+          },
+          {
+            "name": "Child2",
+            "attributes": {
+              "Department": ""
+            }
+        } 
+        ]
+      },
+      {
+        "name": "Child6",
+        "attributes": {
+          "Department": ""
+        },
+        "children": [
+          {
+            "name": "Child1",
+            "attributes": {
+              "Department": ""
+            }
+          },
+          {
+            "name": "Child2",
+            "attributes": {
+              "Department": ""
+            }
+        } 
+        ]
+      }
+    ]
+  }
+  

@@ -9,6 +9,7 @@ import './App.css';
 
 // Data examples
 import orgChartJson from './examples/org-chart.json';
+import orgChart1Json from './examples/org-chart1.json';
 import flareJson from './examples/d3-hierarchy-flare.json';
 import reactTree from './examples/reactRepoTree';
 
@@ -62,7 +63,7 @@ class App extends Component {
     this.addedNodesCount = 0;
 
     this.state = {
-      data: orgChartJson,
+      data: orgChart1Json,
       totalNodeCount: countNodes(0, Array.isArray(orgChartJson) ? orgChartJson[0] : orgChartJson),
       orientation: 'horizontal',
       translateX: 200,
